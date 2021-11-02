@@ -33,5 +33,3 @@ flask db upgrade
 flask run
 ```
 
-## API Documentation
-Pending!
